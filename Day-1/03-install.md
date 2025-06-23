@@ -29,6 +29,15 @@ makefile
 Copy
 Edit
 C:\Terraform
+or
+Use Chocolatey (Alternative Method)
+If you use Chocolatey:
+
+Open PowerShell as Administrator.
+
+Run:choco install terraform
+Once installed, check:terraform -version
+
 (or)
 
 2. Use GitHub Codespaces (Free for 60 hours per month)
